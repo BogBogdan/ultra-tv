@@ -1,0 +1,6 @@
+venv/
+videos/
+playlist.json
+__pycache__/
+*.mp4
+*.mkv
