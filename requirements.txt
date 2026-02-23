@@ -1,3 +1,7 @@
 yt-dlp
 gdown
+flask
+flask-cors
 obsws-python
+flask
+flask_cors

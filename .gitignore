@@ -1,5 +1,6 @@
 venv/
 videos/
+node_modules/
 playlist.json
 __pycache__/
 *.mp4
