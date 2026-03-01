@@ -5,7 +5,7 @@ import sys
 # Konfiguracija OBS-a (Mora se podudarati sa podešavanjima u OBS-u)
 OBS_HOST = "127.0.0.1"
 OBS_PORT = 4455
-OBS_PASSWORD = "[PASSWORD]"  # Tvoja lozinka
+OBS_PASSWORD = "voLUQDdoL4IbMZxv"  # Tvoja lozinka
 OBS_SOURCE_NAME = "TV_Video_Source"  # Ime Media Source-a u OBS-u
 
 def play_video_in_obs(video_filename, scene_name=None):
